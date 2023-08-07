@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm sagar gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif"
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagargupta1310&label=Profile%20views&color=0e75b6&style=flat" alt="sagargupta1310" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagargupta1310" alt="sagargupta1310" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@sagargupta1310" target="blank"><img src="https://img.shields.io/twitter/follow/@sagargupta1310?logo=twitter&style=for-the-badge" alt="@sagargupta1310" /></a> </p>
 
